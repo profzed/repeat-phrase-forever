@@ -1,5 +1,5 @@
 phrase = 1
 
 while phrase == 1:
-    print("Phrase)
+    print("Phrase")
     # Continues for other phraes
