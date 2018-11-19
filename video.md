@@ -1,1 +1,1 @@
-Video: Link will be added here when video has been uploaded.
+Video: https://youtu.be/N_scQUaZkS8
